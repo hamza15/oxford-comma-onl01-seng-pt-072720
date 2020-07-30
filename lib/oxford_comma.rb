@@ -3,6 +3,3 @@ def oxford_comma(array)
   array[-1] = "and #{word}"
   puts array.join(", ")
 end
-
-words = ["fiddleheads","okra","kohlrabi"]
-oxford_comma(words)
