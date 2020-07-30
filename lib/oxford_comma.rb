@@ -1,6 +1,6 @@
 def oxford_comma(array)
-  puts array.join(" ")
+  puts array.join(", ")
 end
 
-words = ["HI","MY","NAME","IS", "SAHR"]
+words = ["fiddleheads","okra","kohlrabi"]
 oxford_comma(words)
