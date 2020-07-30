@@ -4,7 +4,7 @@ source "https://rubygems.org"
 # gem "rails"
 
 def oxford_comma(words)
-  words.join(,)
+  words.join(",")
 end
 
 words = ["HI","MY","NAME","IS", "SAHR"]
